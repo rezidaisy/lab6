@@ -31,17 +31,16 @@ h2 {
 }
 .burger2-title {
   background-color: #7909C3;
-  color: white;
-  text-align: center;
-  padding: 10px 0;
-}
+    }
 
 .burger2-price {
-  font-family: "Arial Black", sans-serif;
-  font-weight: bold;
-  text-align: center;
-  margin: 10px 0 30px 0;
-}
+  font-family: "Arial", sans-serif;
+  font-weight: normal;
+  }
+    
+  .price {
+  font-weight: bold
+  }
 
 /* Set the maximum width of your burger */
 .burger, .burger2 {
