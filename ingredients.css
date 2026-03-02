@@ -1,0 +1,145 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bun-top {
+  height: 70px;
+  width: 60%;
+  background: #e5b05a;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.cheese {
+  height: 15px;
+  width: 65%;
+  background: #e1ae06;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.tomato {
+  height: 25px;
+  width: 50%;
+  background-color: #dd3710;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.meatball {
+  height: 60px;
+  width: 70px;
+  background: #74380d;
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.patty {
+  height: 40px;
+  width: 65%;
+  background: #ad370b;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.pickle {
+  height: 30px;
+  width: 50%;
+  background: #32b773;
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+}
+
+.onion {
+  width: 45%;
+  background-color: #a039bf;
+  border-top: dotted 20px rgba(255,255,255,.2);
+}
+
+.bun-bottom {
+  height: 35px;
+  width: 60%;
+  background: #e5b05a;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.plate {
+  height: 25px;
+  width: 80%;
+  background: #656565;
+  border-radius: 20px 20px 200px 200px;
+}
+
+.bun-top2 {
+  height: 60px;
+  width: 60%;
+  background: #e3a643;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+.mayo {
+  width: 60%;
+  height: 8px;
+  background: #f6e5a0;
+  border-radius: 20px;
+  margin: -5px auto 0 auto;
+  position: relative;
+}
+
+.lettuce {
+  height: 3px;
+  width: 68%;
+  margin: -10px auto 0 auto;
+  background: #42ac45;
+  border-radius: 50% / 100%;
+  border-bottom: solid 5px #42ac45;
+}
+.salmon {
+  width: 65%;
+  height: 30px;
+  background: #fa8477;
+  border-radius: 10px;
+  margin: -4px auto 0 auto;
+  position: relative;
+}
+ .cheese2 {
+  height: 10px;
+  width: 65%;
+  background: #ddb73b;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.tomato2 {
+  height: 17px;
+  width: 55%;
+  background-color: #ed3f18;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.onion2 {
+  width: 50%;
+  background-color: #cc69eb;
+  border-top: dotted 20px rgba(255,255,255,.2);
+}
+.pickle2 {
+  height: 20px;
+  width: 60%;
+  background: #3ac67d;
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+  }
+
+.bun-bottom2 {
+  height: 50px;
+  width: 60%;
+  background: #e3a643;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.plate2 {
+  height: 25px;
+  width: 70%;
+  background: #dc92d2;
+  border-radius: 20px 20px 200px 200px;
+}
